@@ -1,8 +1,8 @@
-# midnight
+# Mightnight-Kanagawa
 
 A darkened discord theme with rounded chat and sidebars.
 
-<img width=700 src="https://user-images.githubusercontent.com/34758569/138004478-fcbf94a2-bc5b-4580-b6f3-bc0547a2ea93.png">
+<img width=700 src="https://i.imgur.com/EimyZXe.png">
 
 Midnight fixes the connected top toolbar problem that other rounded themes like https://github.com/PlusInsta/discord-plus have.
 
@@ -12,11 +12,11 @@ Credit to https://github.com/Dyzean/Tokyo-Night for the window controls.
 
 # install
 
-Download and put the `midnight.theme.css` or `midnight-classic.theme.css` files into your betterdiscord themes folder.
+Download and put the `midnightkanagawa.theme.css` files into your betterdiscord themes folder.
+Enable it and ta-da! You've got a new brand-spanking new theme!
 
 
 # classic
 
-a version of midnight that only changes the colors and keeps the default discord layout
-
-<img width=700 src="https://user-images.githubusercontent.com/34758569/135788551-395436ee-fb1a-47bb-8f14-4d62d2c8181c.png">
+I haven't made a classic theme like the original Midnight theme yet, if enough people want it, I'll make it. But as of I have no plans to do so.
+Let me know If you'd like to see a classic version of this theme!
