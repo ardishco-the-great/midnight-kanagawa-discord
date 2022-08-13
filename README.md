@@ -1,6 +1,7 @@
 # Mightnight-Kanagawa
 
-A darkened discord theme with rounded chat and sidebars.
+A round-cornered theme based on refact0r's midnight theme!
+Best used alongside the Kanagawa GTK theme on Linux.
 
 <img width=700 src="https://i.imgur.com/EimyZXe.png">
 
