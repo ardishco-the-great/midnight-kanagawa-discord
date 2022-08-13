@@ -12,7 +12,7 @@ Credit to https://github.com/Dyzean/Tokyo-Night for the window controls.
 
 # install
 
-Download and put the `midnightkanagawa.theme.css` files into your betterdiscord themes folder.
+Download and put the `midnight-kanagawa.theme.css` files into your betterdiscord themes folder.
 Enable it and ta-da! You've got a new brand-spanking new theme!
 
 
