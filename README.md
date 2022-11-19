@@ -3,7 +3,7 @@
 A round-cornered theme based on refact0r's midnight theme!
 Best used alongside the Kanagawa GTK theme on Linux.
 
-<img width=700 src="https://i.imgur.com/EimyZXe.png">
+<img width=700 src="https://imgur.com/hPJCInM">
 
 Midnight fixes the connected top toolbar problem that other rounded themes like https://github.com/PlusInsta/discord-plus have.
 
